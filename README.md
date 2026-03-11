@@ -1,1 +1,1 @@
-# banana-bread
+# Test repo for agentic coding
