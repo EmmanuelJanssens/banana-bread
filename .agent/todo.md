@@ -1,5 +1,8 @@
-# Task: Log in Java
+# Task: Random number
 
-- [x] Create Logger.java file with public class Logger
-- [x] Implement main method that accepts command-line arguments
-- [x] Add logic to iterate through and log each argument to console
+- [x] Create `random.sh` with execute permissions
+- [x] Validate exactly two numeric arguments are provided
+- [x] Validate that lower bound is less than or equal to upper bound
+- [x] Calculate range and generate random number between bounds
+- [x] Output only the random number to stdout
+- [x] Exit with appropriate status codes (0 for success, non-zero for errors)
